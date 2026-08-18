@@ -1,0 +1,13 @@
+{
+  "name": "har-to-csv-converter",
+  "version": "1.0.0",
+  "description": "Convert large HAR files to CSV streamingly",
+  "main": "har_to_csv.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["har", "csv", "converter"],
+  "author": "",
+  "license": "ISC"
+}
