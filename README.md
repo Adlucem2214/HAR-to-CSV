@@ -1,2 +1,2 @@
-# HAR-to-CSV
+# HAR-To-CSV
 Convert Large HAR files to CSV
